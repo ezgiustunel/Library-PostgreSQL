@@ -1,0 +1,23 @@
+Id,Name,StockNumber,PageNumber,Price,StockCode,Isbn,AuthorName
+0,Simyaci,350,270,45,sc23456,isbn1234,Paulo Coelho
+1,Bab-i Esrar,350,270,45,sc23456,isbn1234,Ahmet Ümit
+2,Nar Ağaci,350,270,45,sc23456,isbn1234,Nazan Bekiroğlu
+3,Fareler ve İnsanlar,350,270,45,sc23456,isbn1234,John Steinback
+4,Kürk Mantolu Madonna,350,270,45,sc23456,isbn1234,Sabahattin Ali
+5,Hayvan Çiftliği,350,270,45,sc23456,isbn1234,George Orwell
+6,Şeker Portakali,350,270,45,sc23456,isbn1234,Mauro Vasgencelos
+7,Uçurtma Avcisi,350,270,45,sc23456,isbn1234,Halid Hüseyni
+8,Suç ve Ceza,350,270,45,sc23456,isbn1234,Fyodor Dostoyevski
+9,Serenad,350,270,45,sc23456,isbn1234,Zülfü Livaneli
+10,Yeraltindan Notlar,350,270,45,sc23456,isbn1234,Fyodor Dostoyevski
+11,Toprak Ana,350,270,45,sc23456,isbn1234,Cengiz Aytmatov
+12,Fatih Harbiye,350,270,45,sc23456,isbn1234,Peyami Safa
+13,Saatleri Ayarlama Enstitüsü,350,270,45,sc23456,isbn1234,Ahmet Hamdi Tanpinar
+14,Acimak,350,270,45,sc23456,isbn1234,Reşat Nuri Güntekin
+15,Ateşten Gömlek,350,270,45,sc23456,isbn1234,Halide Edip Adivar
+16,Çocukluğum,350,270,45,sc23456,isbn1234,Maksim Gorki
+17,Aşk,350,270,45,sc23456,isbn1234,Elif Şafak
+18,Kuyucakli Yusuf,350,270,45,sc23456,isbn1234,Sabahattin Ali
+19,Arkadaş,350,270,45,sc23456,isbn1234,Gorki
+20,Momo,350,270,45,sc23456,isbn1234,Michael Ende
+
